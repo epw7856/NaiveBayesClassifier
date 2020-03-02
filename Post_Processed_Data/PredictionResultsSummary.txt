@@ -1,0 +1,7 @@
+Output Summary for run at 2020-02-27 10:49:08 
+
+Number of Training Messages: 9998 
+Number of Testing Messages: 9999 
+Correct Predictions: 8609 
+Incorrect Predictions: 1390 
+Accuracy of classifier is: 86.10%
